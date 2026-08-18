@@ -1,8 +1,8 @@
-# 👨🏾‍💻 Luís Mariano
+# 👨🏾‍💻 Luís Mariano 
 
-**`Full Stack Developer in Training`**
-**`Full Stack Developer in Training`**
-**`Full Stack Developer in Training`**
+<img src="https://img.shields.io/badge/💻%20Full%20Stack%20Developer%20in%20Training-18181B?style=for-the-badge&labelColor=18181B&color=DC2626">
+<img src="https://img.shields.io/badge/🚀%20Software%20Development-18181B?style=for-the-badge&labelColor=18181B&color=B91C1C">
+<img src="https://img.shields.io/badge/📚%20Always%20Learning-18181B?style=for-the-badge&labelColor=18181B&color=7F1D1D">
 
 
 <!--
