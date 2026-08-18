@@ -1,6 +1,8 @@
-## 🧑🏿‍💻 Luís Mariano
-## I'm Luís Mariano
---- 
+# 👨🏾‍💻 Luís Mariano
+
+**`Full Stack Developer in Training`**
+**`Full Stack Developer in Training`**
+**`Full Stack Developer in Training`**
 
 
 <!--
