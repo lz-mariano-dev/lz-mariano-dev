@@ -1,6 +1,6 @@
 name: Generate stats card
 on:
-  schedule: # executa a cada 12 horas
+  schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
