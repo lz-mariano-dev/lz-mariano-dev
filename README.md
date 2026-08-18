@@ -1,8 +1,12 @@
-# 👨🏾‍💻 Luís Mariano 
+# Luís Mariano 
 
-<img src="https://img.shields.io/badge/💻%20Full%20Stack%20Developer%20in%20Training-18181B?style=for-the-badge&labelColor=18181B&color=DC2626">
-<img src="https://img.shields.io/badge/🚀%20Software%20Development-18181B?style=for-the-badge&labelColor=18181B&color=B91C1C">
-<img src="https://img.shields.io/badge/📚%20Always%20Learning-18181B?style=for-the-badge&labelColor=18181B&color=7F1D1D">
+<div style="white-space: nowrap;">
+<img src="https://img.shields.io/badge/💻%20Full%20Stack%20Developer%20in%20Training-18181B?style=for-the-badge&color=2563EB">
+<img src="https://img.shields.io/badge/🚀%20Software%20Development-27272A?style=for-the-badge&color=1D4ED8">
+<img src="https://img.shields.io/badge/📚%20Always%20Learning-3F3F46?style=for-the-badge&color=1E40AF">
+</div>
+
+
 
 
 <!--
