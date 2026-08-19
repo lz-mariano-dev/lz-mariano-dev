@@ -34,8 +34,8 @@ Hi, I'm Luis Mariano. I currently have a degree in **Information Systems** from 
 ###
 
 <div data-importer="stats" align="center">
-  <img display="block" src="https://github-stats-extended.vercel.app/api?username=lz-mariano-dev&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&theme=github_dark&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img display="block" src="https://github-stats-extended.vercel.app/api/top-langs/?username=lz-mariano-dev&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&locale=en&hide_border=false" height="150" alt="languages graph" />
+  <img style="display: block;" src="https://github-stats-extended.vercel.app/api?username=lz-mariano-dev&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&theme=github_dark&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img style="display: block;" src="https://github-stats-extended.vercel.app/api/top-langs/?username=lz-mariano-dev&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&locale=en&hide_border=false" height="150" alt="languages graph" />
 </div>
 
 ###
