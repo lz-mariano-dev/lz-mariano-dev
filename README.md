@@ -7,8 +7,11 @@
 <img src="https://img.shields.io/badge/📚%20Always%20Learning-3F3F46?style=for-the-badge&color=1E40AF">
 </div>
 
+## About me
 
-###
+Hi, I'm Luis Mariano. I currently have a degree in **Information Systems** from the Federal University of Ceará (UFC) and have a **technical course in IT**. I'm an aspiring fullstack developer and software engineer.
+
+## Technologies
 
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -30,18 +33,11 @@
 
 ###
 
-<div data-importer="socials" align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"  />
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
-</div>
-
-###
-
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/lz-mariano-dev/lz-mariano-dev/stats-output/stats.svg?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/lz-mariano-dev/lz-mariano-dev/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <div data-importer="stats" align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=lz-mariano-dev&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&theme=github_dark&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=lz-mariano-dev&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&locale=en&hide_border=false" height="150" alt="languages graph" />
+</div>
 </div>
 
 ###
@@ -53,3 +49,21 @@
 </picture>
 
 ###
+
+## Social networks
+
+<div data-importer="socials" align="center">
+  <a href="https://www.linkedin.com/in/lg-mariano/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
+  <a href="https://discord.gg/cj88ATEt" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  </a>
+  <a href="https://outlook.com/luis.g.mariano@outlook.com">
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"  />
+  </a>
+  <a href="https://t.me/lzmariano" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  </a>
+</div>
+
