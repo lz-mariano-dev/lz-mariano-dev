@@ -13,7 +13,7 @@ Hi, I'm Luis Mariano. I currently have a degree in **Information Systems** from 
 
 ## Technologies
 
-<div data-importer="techs" align="left">
+<div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
@@ -32,12 +32,12 @@ Hi, I'm Luis Mariano. I currently have a degree in **Information Systems** from 
 </div>
 
 ###
+###
 
 <div data-importer="stats" align="center">
-  <div data-importer="stats" align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=lz-mariano-dev&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&theme=github_dark&locale=en&hide_border=false" height="150" alt="stats graph" />
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=lz-mariano-dev&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&locale=en&hide_border=false" height="150" alt="languages graph" />
-</div>
+
 </div>
 
 ###
